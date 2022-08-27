@@ -133,6 +133,13 @@ Name | Description
 
 <br><br>
 
+### Payload generator tool
+Name | Description
+---- | ----
+[MSFVenom](https://github.com/rapid7/metasploit-framework/wiki/How-to-use-msfvenom) | A standalone metasploit payload generator
+
+<br><br>
+
 ### Services Clients and host services
 Name | Description
 ---- | ----
