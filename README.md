@@ -25,6 +25,9 @@ Name | Description
 [HashCat](https://hashcat.net/hashcat/) | hashcat is password cracking tool which works on GPU instead of CPU
 [Hash-Identifier](https://github.com/blackploit/hash-identifier) | hash-identifier is a CLI to identify type of hash algorithm
 [zip2john](https://github.com/openwall/john/blob/bleeding-jumbo/src/zip2john.c) | tool to fetch hash password from zip file
+[unshadow](https://www.cyberciti.biz/faq/unix-linux-password-cracking-john-the-ripper/) | combine passwd+shadow to bruteforce them
+[steghide](http://steghide.sourceforge.net/) | powerfull steganography tool
+[stegseek](https://github.com/RickdeJager/stegseek) | insanely fast steghide password cracking 
 
 <br><br>
 
