@@ -173,13 +173,18 @@ Name | Description
 <br><br>
 
 
-### Services 
+### Services - transfer files (malwares), clients softwares of services
 Name | Description
 ---- | ----
 [SMBClient](https://www.samba.org/samba/docs/current/man-html/smbclient.1.html) | SmbClient is client tool for SMB service
 [FTP](https://www.computerhope.com/issues/ch001246.htm) | FTP is CLI tool for ftp client
 [http.server](https://docs.python.org/3/library/http.server.html) | python3 module to host web server to allow transport of file
 [certutil](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/certutil) | Windows tool equivalent to wget
+[OpenSSH](https://www.openssh.com/) | OpenSSH is SSH created by OpenBSD team
+[SCP](https://www.ssh.com/academy/ssh/scp) | Transfer files securly via ssh
+[curl](https://curl.se/download.html) | curl is used to download data from url
+[wget](https://www.gnu.org/software/wget/?) | wget is tool to download files from internet
+
 
 <br><br>
 
