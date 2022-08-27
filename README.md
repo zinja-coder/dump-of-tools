@@ -27,6 +27,18 @@ Name | Description
 
 <br><br>
 
+### Enumeration - Subdomains 
+Name | Description 
+---- | ----
+[sublister](https://github.com/aboul3la/Sublist3r) | Sublist3r is a python tool designed to enumerate subdomains of websites using OSINT.
+[Bluto](https://github.com/samyoyo/Bluto) | Bluto is DNS recon tool and subdomain finder
+
+
+### Enumeration - Domain certificates
+[crt.sh](https://crt.sh/) | certificate search engine for domains
+
+<br><br>
+
 ### Virtulization 
 Name | Description
 ---- | ----
