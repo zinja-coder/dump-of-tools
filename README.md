@@ -2,7 +2,7 @@
 
 <br><br>
 
-## I will keep updating this list as time progresses feel free to contribute it will help me and you :)
+## I will keep updating this list as time progresses feel free to contribute it will help me and you :) 
 
 <br><br>
 
@@ -102,6 +102,23 @@ Name | Description
 [Nkto](https://www.cirt.net/Nikto2) | Nikto is powerfull web vulnerability scanning tool
 [Vulscan NSE](https://github.com/scipag/vulscan) | Vulscan is powerfull NSE script for vulnerability scanning
 [searchsploit](https://github.com/offensive-security/exploitdb) | searchsploit is CLI exploit searching tool
+
+<br><br>
+
+### Bruteforcing tools
+Name | Description
+---- | ----
+[Hydra](https://github.com/vanhauser-thc/thc-hydra) | Hydra is powerfull credential bruteforcing tool
+[medusa](https://github.com/jmk-foofus/medusa) | Medusa is credential bruteforcing tool
+
+<br><br>
+
+### Cryptography tools
+Name | Description
+---- | ----
+[JohTheRipper](https://www.openwall.com/john/) | An Open source Password Cracking tool
+[HashCat](https://hashcat.net/hashcat/) | hashcat is password cracking tool which works on GPU instead of CPU
+[Hash-Identifier](https://github.com/blackploit/hash-identifier) | hash-identifier is a CLI to identify type of hash algorithm
 
 <br><br>
 
