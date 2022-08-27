@@ -53,8 +53,7 @@ Name | Description
 ### OSINT - Overall OSINT gathering
 Name | Description
 ---- | ----
-[theHarvester](https://github.com/laramies/theHarvester) | It performs open source intelligence (OSINT) gathering to help determine
-a domain's external threat landscape. The tool gathers names, emails, IPs, subdomains, and URLs by using
+[theHarvester](https://github.com/laramies/theHarvester) | The tool gathers names, emails, IPs, subdomains, and URLs by using
 multiple public resources 
 
 ### OSINT - Data Breaches
