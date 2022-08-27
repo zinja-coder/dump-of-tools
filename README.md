@@ -28,6 +28,7 @@ Name | Description
 [unshadow](https://www.cyberciti.biz/faq/unix-linux-password-cracking-john-the-ripper/) | combine passwd+shadow to bruteforce them
 [steghide](http://steghide.sourceforge.net/) | powerfull steganography tool
 [stegseek](https://github.com/RickdeJager/stegseek) | insanely fast steghide password cracking 
+[base64](https://www.base64decode.org/) | it is CLI and online tool to encode/decode base64
 
 <br><br>
 
@@ -98,6 +99,7 @@ Name | Description
 ---- | ----
 [theHarvester](https://github.com/laramies/theHarvester) | The tool gathers names, emails, IPs, subdomains, and URLs 
 [OWASP Amass](https://github.com/OWASP/Amass) | OSINT network attack surface mapping
+[Sherlock](https://github.com/sherlock-project/sherlock) | Hunt down social media with sherlock
 
 <br><br>
 
@@ -137,6 +139,16 @@ Name | Description
 Name | Description
 ---- | ----
 [MSFVenom](https://github.com/rapid7/metasploit-framework/wiki/How-to-use-msfvenom) | A standalone metasploit payload generator
+
+<br><br>
+
+### Privilege Escallation tools
+Name | Description
+---- | ----
+[PEASS-ng](https://github.com/carlospolop/PEASS-ng) | PEASS-ng is an advance priv-escalation tool for Win,Mac,Linux
+[LinEnum.sh](https://github.com/rebootuser/LinEnum/blob/master/LinEnum.sh) | Linux Enumeration tool
+[linuxprivchecker.py](https://github.com/sleventyeleven/linuxprivchecker/blob/master/linuxprivchecker.py) | linux privilege checker python script
+[sherlock](https://github.com/rasta-mouse/Sherlock) | power shell script to check privlege escalation in windows
 
 <br><br>
 
