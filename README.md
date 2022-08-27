@@ -23,6 +23,7 @@ Name | Description
 ---- | ----
 [Wappalyzer](https://www.wappalyzer.com/) | wappalyzer awsome tool and can be added as extension to quickly fingerprint website 
 [Built With](https://builtwith.com/) | Gives Detailed fingerprint of website
+[WhatWeb](https://github.com/urbanadventurer/WhatWeb) | CLI tool for fingerprinting websites 
 
 <br><br>
 
@@ -72,7 +73,13 @@ Name | Descritpion
 [hunter.io](https://hunter.io/) | A professional email finder tool
 
 
+<br><br>
 
+### Overall Web Penetration testing
+Name | Description
+---- | ----
+[Burpsuite](https://portswigger.net/burp/communitydownload) | An Overwall web penetration testing tool
+[OWASP Zap](https://owasp.org/www-project-zap/) | Free Proxy tool to penetrate web applications
 <br><br>
 
 ## General purpose tools - Non Penetration testing tools
