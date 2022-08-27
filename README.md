@@ -142,7 +142,7 @@ Name | Description
 
 <br><br>
 
-### Privilege Escallation and OS exploit tools
+### Privilege Escallation and OS exploit and Enumeration tools
 Name | Description
 ---- | ----
 [PEASS-ng](https://github.com/carlospolop/PEASS-ng) | PEASS-ng is an advance priv-escalation tool for Win,Mac,Linux
@@ -150,6 +150,7 @@ Name | Description
 [linuxprivchecker.py](https://github.com/sleventyeleven/linuxprivchecker/blob/master/linuxprivchecker.py) | linux privilege checker python script
 [sherlock](https://github.com/rasta-mouse/Sherlock) | power shell script to check privlege escalation in windows
 [Windows-Exploit-Suggester](https://github.com/AonCyberLabs/Windows-Exploit-Suggester) | find exploits in windows
+[pspy](https://github.com/DominicBreuker/pspy) | Monitor linux processes without root permissions 
 
 <br><br>
 
