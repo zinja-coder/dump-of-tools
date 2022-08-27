@@ -153,6 +153,15 @@ Name | Description
 
 <br><br>
 
+### Reverse Shell 
+Name | Description
+---- | ----
+[PentestMonkey](https://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet) | reverse shell cheatsheet from pentest monkey
+[PHP revershell](https://github.com/pentestmonkey/php-reverse-shell) | PHP reverseshell script from pentest monkey
+
+<br><br>
+
+
 ### Services Clients and host services
 Name | Description
 ---- | ----
@@ -160,6 +169,8 @@ Name | Description
 [FTP](https://www.computerhope.com/issues/ch001246.htm) | FTP is CLI tool for ftp client
 [http.server](https://docs.python.org/3/library/http.server.html) | python3 module to host web server to allow transport of file
 [certutil](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/certutil) | Windows tool equivalent to wget
+
+<br><br>
 
 ### Vulnerability scanning tools
 Name | Description
