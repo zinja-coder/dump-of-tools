@@ -15,7 +15,7 @@ Name | Description
 ---- | ----
 [NMAP](https://nmap.org/download) | NMAP The OG tool for scanning network and host
 [httprobe](https://github.com/tomnomnom/httprobe) | check whether host is alive or down 
-[Nessus]{https://www.tenable.com/products/nessus} | Nessus is powerall network scanning tool
+[Nessus](https://www.tenable.com/products/nessus) | Nessus is powerall network scanning tool
 
 <br><br>
 
@@ -61,6 +61,13 @@ Name | Description
 [shodan](https://www.shodan.io/) | An extremely powerfull IOT searchengine
 [crt.sh](https://crt.sh/) | certificate search engine for domains
 [censys](https://search.censys.io/) | Censys helps organizations, individuals, and researchers find and monitor every server on the Internet
+
+<br><br>
+
+### Enumeration - Samba
+Name | Description
+---- | ----
+[smbmap](https://github.com/ShawnDEvans/smbmap) | Handy tool for enumerating samba service
 
 <br><br>
 
