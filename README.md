@@ -50,16 +50,27 @@ Name | Description
 
 <br><br>
 
+### OSINT - Overall OSINT gathering
+[theHarvester](https://github.com/laramies/theHarvester) | It performs open source intelligence (OSINT) gathering to help determine
+a domain's external threat landscape. The tool gathers names, emails, IPs, subdomains, and URLs by using
+multiple public resources 
+
 ### OSINT - Data Breaches
 Name | Description 
 ---- | ----
 [HaveIBeenPwned](https://haveibeenpwned.com/) | check for credential for data breaches
 [Breach-parse](https://github.com/hmaverickadams/breach-parse) | A tool for locally checking for breached data
 
+### OSINT - EMail gathering
+Name | Descritpion
+---- | ----
+[hunter.io](https://hunter.io/) | A professional email finder tool
+
+
 
 <br><br>
 
-## General purpose tools
+## General purpose tools - Non Penetration testing tools
 
 <br><br>
 
