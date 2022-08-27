@@ -11,12 +11,18 @@ Name | Description
 ### Virtulization 
 Name | Description
 ---- | ----
-[Virtual Box]() | Free Open Source VM Manager from Oracle
-[OVFToll]() | create vmx to ovf and vmx to ova for importing vmware machine into virtualbox
+[Virtual Box](https://www.virtualbox.org/) | Free Open Source VM Manager from Oracle
+[OVFToll](https://developer.vmware.com/web/tool/4.4.0/ovf) | create vmx to ovf and vmx to ova for importing vmware machine into virtualbox
 
 ### Report Writing - Note Keeping 
 Name | Description
 ---- | ----
-[]() | 
+[CherryTree](https://www.giuspen.net/cherrytree/) | A hierarchical tree structure type note keeping tool with advanced features 
+[FlameShot](https://flameshot.org/) | An advanced software for taking screenshots
 
 ## General purpose tools
+
+### Package Manager
+Name | Description
+---- | ----
+[Nala](https://gitlab.com/volian/nala) | Nala is a frontend for apt it is not replacement of it, it just insanely improves it functionality.
