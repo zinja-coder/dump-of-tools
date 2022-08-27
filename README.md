@@ -14,6 +14,7 @@
 Name | Description
 ---- | ----
 [NMAP](https://nmap.org/download) | NMAP The OG tool for scanning network and host
+[masscan](https://github.com/robertdavidgraham/masscan) | masscan is port scanning tool which includes a command to search whole internet
 [httprobe](https://github.com/tomnomnom/httprobe) | check whether host is alive or down 
 [Nessus](https://www.tenable.com/products/nessus) | Nessus is powerall network scanning tool
 
@@ -100,6 +101,7 @@ Name | Description
 ---- | ----
 [Nkto](https://www.cirt.net/Nikto2) | Nikto is powerfull web vulnerability scanning tool
 [Vulscan NSE](https://github.com/scipag/vulscan) | Vulscan is powerfull NSE script for vulnerability scanning
+[searchsploit](https://github.com/offensive-security/exploitdb) | searchsploit is CLI exploit searching tool
 
 <br><br>
 
