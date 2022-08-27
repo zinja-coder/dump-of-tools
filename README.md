@@ -18,6 +18,16 @@ Name | Description
 
 <br><br>
 
+### Enumeration - Sub directory listing
+Name | Description
+---- | ----
+[dirbuster](https://sourceforge.net/projects/dirbuster/files/DirBuster%20Source/1.0-RC1/) | A java application to brute force subdirectories
+[dirb](https://www.kali.org/tools/dirb/) | sub directory finder which uses OSINT to find sub directories
+[ffuf](https://github.com/ffuf/ffuf) | A fast web fuzzer written in golang
+[gobuster](https://github.com/OJ/gobuster) | sub directory - web fuzzer written in go
+
+<br><br>
+
 ### Enumeration - Website Fingerprinting tools
 Name | Description
 ---- | ----
@@ -50,6 +60,7 @@ Name | Description
 [shodan](https://www.shodan.io/) | An extremely powerfull IOT searchengine
 [crt.sh](https://crt.sh/) | certificate search engine for domains
 [censys](https://search.censys.io/) | Censys helps organizations, individuals, and researchers find and monitor every server on the Internet
+
 <br><br>
 
 ### OSINT - Overall OSINT gathering
