@@ -68,6 +68,7 @@ Name | Description
 Name | Description
 ---- | ----
 [smbmap](https://github.com/ShawnDEvans/smbmap) | Handy tool for enumerating samba service
+[SMBClient](https://www.samba.org/samba/docs/current/man-html/smbclient.1.html) | SmbClient is client tool for SMB service
 
 <br><br>
 
