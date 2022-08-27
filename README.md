@@ -155,11 +155,12 @@ Name | Description
 
 <br><br>
 
-### Reverse Shell 
+### Reverse Shell \ Bind Shell
 Name | Description
 ---- | ----
 [PentestMonkey](https://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet) | reverse shell cheatsheet from pentest monkey
 [PHP revershell](https://github.com/pentestmonkey/php-reverse-shell) | PHP reverseshell script from pentest monkey
+[netcat](https://sourceforge.net/projects/nc110/) | in pentesting used to open and listen to port to spawn shell 
 
 <br><br>
 
