@@ -142,13 +142,14 @@ Name | Description
 
 <br><br>
 
-### Privilege Escallation tools
+### Privilege Escallation and OS exploit tools
 Name | Description
 ---- | ----
 [PEASS-ng](https://github.com/carlospolop/PEASS-ng) | PEASS-ng is an advance priv-escalation tool for Win,Mac,Linux
 [LinEnum.sh](https://github.com/rebootuser/LinEnum/blob/master/LinEnum.sh) | Linux Enumeration tool
 [linuxprivchecker.py](https://github.com/sleventyeleven/linuxprivchecker/blob/master/linuxprivchecker.py) | linux privilege checker python script
 [sherlock](https://github.com/rasta-mouse/Sherlock) | power shell script to check privlege escalation in windows
+[Windows-Exploit-Suggester](https://github.com/AonCyberLabs/Windows-Exploit-Suggester) | find exploits in windows
 
 <br><br>
 
