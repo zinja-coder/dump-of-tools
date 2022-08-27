@@ -18,6 +18,14 @@ Name | Description
 
 <br><br>
 
+### Enumeration - Website Fingerprinting tools
+Name | Description
+---- | ----
+[Wappalyzer](https://www.wappalyzer.com/) | wappalyzer awsome tool and can be added as extension to quickly fingerprint website 
+[Built With](https://builtwith.com/) | Gives Detailed fingerprint of website
+
+<br><br>
+
 ### Enumeration - DNS records and Domain Enumeration
 Name | Description
 ---- | ----
@@ -42,7 +50,16 @@ Name | Description
 
 <br><br>
 
-### Virtulization 
+### OSINT - Data Breaches
+Name | Description 
+---- | ----
+[HaveIBeenPwned](https://haveibeenpwned.com/) | check for credential for data breaches
+[Breach-parse](https://github.com/hmaverickadams/breach-parse) | A tool for locally checking for breached data
+
+
+<br><br>
+
+### Virtualization 
 Name | Description
 ---- | ----
 [Virtual Box](https://www.virtualbox.org/) | Free Open Source VM Manager from Oracle
