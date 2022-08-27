@@ -139,6 +139,7 @@ Name | Description
 [SMBClient](https://www.samba.org/samba/docs/current/man-html/smbclient.1.html) | SmbClient is client tool for SMB service
 [FTP](https://www.computerhope.com/issues/ch001246.htm) | FTP is CLI tool for ftp client
 [http.server](https://docs.python.org/3/library/http.server.html) | python3 module to host web server to allow transport of file
+[certutil](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/certutil) | Windows tool equivalent to wget
 
 ### Vulnerability scanning tools
 Name | Description
