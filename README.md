@@ -163,7 +163,7 @@ Name | Description
 <br><br>
 
 
-### Services Clients and host services
+### Services 
 Name | Description
 ---- | ----
 [SMBClient](https://www.samba.org/samba/docs/current/man-html/smbclient.1.html) | SmbClient is client tool for SMB service
