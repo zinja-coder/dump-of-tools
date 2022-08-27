@@ -14,7 +14,7 @@
 Name | Description
 ---- | ----
 [NMAP](https://nmap.org/download) | NMAP The OG tool for scanning network and host
-[]() | 
+[httprobe](https://github.com/tomnomnom/httprobe) | check whether host is alive or down 
 
 <br><br>
 
@@ -56,11 +56,15 @@ Name | Description
 [theHarvester](https://github.com/laramies/theHarvester) | The tool gathers names, emails, IPs, subdomains, and URLs 
 [OWASP Amass](https://github.com/OWASP/Amass) | OSINT network attack surface mapping
 
+<br><br>
+
 ### OSINT - Data Breaches
 Name | Description 
 ---- | ----
 [HaveIBeenPwned](https://haveibeenpwned.com/) | check for credential for data breaches
 [Breach-parse](https://github.com/hmaverickadams/breach-parse) | A tool for locally checking for breached data
+
+<br><br>
 
 ### OSINT - EMail gathering
 Name | Descritpion
