@@ -18,12 +18,13 @@ Name | Description
 
 <br><br>
 
-### Cryptography tools
+### Cryptography and Steganography tools
 Name | Description
 ---- | ----
 [JohTheRipper](https://www.openwall.com/john/) | An Open source Password Cracking tool
 [HashCat](https://hashcat.net/hashcat/) | hashcat is password cracking tool which works on GPU instead of CPU
 [Hash-Identifier](https://github.com/blackploit/hash-identifier) | hash-identifier is a CLI to identify type of hash algorithm
+[zip2john](https://github.com/openwall/john/blob/bleeding-jumbo/src/zip2john.c) | tool to fetch hash password from zip file
 
 <br><br>
 
@@ -86,7 +87,6 @@ Name | Description
 Name | Description
 ---- | ----
 [smbmap](https://github.com/ShawnDEvans/smbmap) | Handy tool for enumerating samba service
-[SMBClient](https://www.samba.org/samba/docs/current/man-html/smbclient.1.html) | SmbClient is client tool for SMB service
 
 <br><br>
 
@@ -129,6 +129,13 @@ Name | Description
 [NSE](https://nmap.org/book/man-nse.html) | NSE is extremely powerfull scripting engine for nmap capable of more than scanning
 
 <br><br>
+
+### Services Clients and host services
+Name | Description
+---- | ----
+[SMBClient](https://www.samba.org/samba/docs/current/man-html/smbclient.1.html) | SmbClient is client tool for SMB service
+[FTP](https://www.computerhope.com/issues/ch001246.htm) | FTP is CLI tool for ftp client
+[http.server](https://docs.python.org/3/library/http.server.html) | python3 module to host web server to allow transport of file
 
 ### Vulnerability scanning tools
 Name | Description
