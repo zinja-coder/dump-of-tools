@@ -4,11 +4,16 @@
 
 ## Following tools are primarly used for penetration testing purpose
 
-### Enumeration - Host Scanning 
+### Enumeration - Network and Host Scanning 
 Name | Description
 ---- | ----
 [NMAP](https://nmap.org/download) | NMAP The OG tool for scanning network and host
 []() | 
+
+### Enumeration - DNS records and Domain Enumeration
+[whois](https://www.whois.com/) | comes in kali linux by default. usefull for performing whois lookup on domain
+[nslookup](https://www.nslookup.io/) | DNS record lookup tool. Comes with kali linux.
+[dnsrecon](https://github.com/darkoperator/dnsrecon) | DNS enumeration script written in python. Comes with kali linux
 
 ### Virtulization 
 Name | Description
