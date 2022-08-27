@@ -39,6 +39,7 @@ Name | Description
 [masscan](https://github.com/robertdavidgraham/masscan) | masscan is port scanning tool which includes a command to search whole internet
 [httprobe](https://github.com/tomnomnom/httprobe) | check whether host is alive or down 
 [Nessus](https://www.tenable.com/products/nessus) | Nessus is powerall network scanning tool
+[netdiscover](https://github.com/netdiscover-scanner/netdiscover) | An active/passive arp enumeration tool
 
 <br><br>
 
