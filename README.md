@@ -92,6 +92,13 @@ Name | Descritpion
 ---- | ----
 [hunter.io](https://hunter.io/) | A professional email finder tool
 
+<br><br>
+
+### Vulnerability scanning tools
+Name | Description
+---- | ----
+[Nkto](https://www.cirt.net/Nikto2) | Nikto is powerfull web vulnerability scanning tool
+[Vulscan NSE](https://github.com/scipag/vulscan) | Vulscan is powerfull NSE script for vulnerability scanning
 
 <br><br>
 
