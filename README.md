@@ -26,6 +26,13 @@ Name | Description
 
 <br><br>
 
+### Clearing tracks
+Name | Description
+---- | ----
+[Shred](https://en.wikipedia.org/wiki/Shred_(Unix)) | Shred is tool to completely wipe data from storage device to avoid leaving tracks
+
+<br><br>
+
 ### Cryptography and Steganography tools
 Name | Description
 ---- | ----
