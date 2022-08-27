@@ -10,6 +10,14 @@
 
 <br><br>
 
+### Anonymity tools
+Name | Description
+---- | ----
+[Tor](https://www.torproject.org/download/) | The-Onion-Routing client
+[proxychains](https://github.com/haad/proxychains) | proxychains is tool to establish a chain of proxies
+
+<br><br>
+
 ### Bruteforcing tools
 Name | Description
 ---- | ----
