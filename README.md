@@ -59,6 +59,10 @@ Name | Description
 
 <br><br>
 
+## General purpose tools
+
+<br><br>
+
 ### Virtualization 
 Name | Description
 ---- | ----
@@ -74,8 +78,6 @@ Name | Description
 [FlameShot](https://flameshot.org/) | An advanced software for taking screenshots
 
 <br><br>
-
-## General purpose tools
 
 <br><br>
 
