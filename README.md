@@ -68,7 +68,6 @@ Name | Description
 Name | Description
 ---- | ----
 [smbmap](https://github.com/ShawnDEvans/smbmap) | Handy tool for enumerating samba service
-[NSE smb Scripts](https://nmap.org/nsedoc/lib/smb.html) | Nmap contains various smb scripts 
 
 <br><br>
 
@@ -108,6 +107,7 @@ Name | Description
 Name | Description
 ---- | ----
 [MetaSploit](https://www.metasploit.com/) | A advanced penetration testing framework
+[NSE](https://nmap.org/book/man-nse.html) | NSE is extremely powerfull scripting engine for nmap capable of more than scanning
 
 <br><br>
 
