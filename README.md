@@ -68,6 +68,13 @@ Name | Description
 
 <br><br>
 
+### Enumeration - NFS
+Name | Description
+---- | ----
+[mount](https://resources.infosecinstitute.com/topic/exploiting-nfs-share/) | mount is a inbuilt utility which can be used to mount nfs
+
+<br><br>
+
 ### Enumeration - Website Fingerprinting tools
 Name | Description
 ---- | ----
