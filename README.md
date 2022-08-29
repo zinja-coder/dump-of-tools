@@ -71,6 +71,7 @@ Name | Description
 ### Enumeration - NFS
 Name | Description
 ---- | ----
+[showmount](https://resources.infosecinstitute.com/topic/exploiting-nfs-share/) | showmount is utility which can be used to list available shares on nfs
 [mount](https://resources.infosecinstitute.com/topic/exploiting-nfs-share/) | mount is a inbuilt utility which can be used to mount nfs
 [NFSpy](https://github.com/bonsaiviking/NfSpy) | NfSpy is a Python library for automating the falsification of NFS credentials when mounting an NFS share
 
