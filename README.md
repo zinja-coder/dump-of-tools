@@ -213,6 +213,14 @@ Name | Description
 
 <br><br>
 
+### Vulnerability scanning tools
+Name | Description
+---- | ----
+[Evil-Winrm](https://github.com/Hackplayers/evil-winrm) | Penetration testing tool for exploiting Windows Remote Management (WinRM)
+
+<br><br>
+
+
 ## General purpose tools - Non Penetration testing tools
 
 <br><br>
