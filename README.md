@@ -215,10 +215,11 @@ Name | Description
 
 <br><br>
 
-### Vulnerability scanning tools
+### Winodws - Windows services, Actve Directory, etc.
 Name | Description
 ---- | ----
 [Evil-Winrm](https://github.com/Hackplayers/evil-winrm) | Penetration testing tool for exploiting Windows Remote Management (WinRM)
+[Get-LAPSPasswords.ps1](https://github.com/kfosaaen/Get-LAPSPasswords.git) | Powershell script to get LAPS passwords 
 
 <br><br>
 
