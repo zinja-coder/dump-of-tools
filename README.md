@@ -157,6 +157,7 @@ Name | Description
 ---- | ----
 [MetaSploit](https://www.metasploit.com/) | A advanced penetration testing framework
 [NSE](https://nmap.org/book/man-nse.html) | NSE is extremely powerfull scripting engine for nmap capable of more than scanning
+[Impacket](https://github.com/SecureAuthCorp/impacket) | Collection of python scripts for network protocols
 
 <br><br>
 
