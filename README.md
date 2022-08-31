@@ -224,6 +224,11 @@ Name | Description
 
 <br><br>
 
+### Web Apps - LFI 
+Name | Description
+---- | ----
+[LFI codes snippets](https://book.hacktricks.xyz/pentesting-web/file-inclusion) | list of LFI codes and cheatsheet
+
 
 ## General purpose tools - Non Penetration testing tools
 
