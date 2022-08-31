@@ -187,6 +187,7 @@ Name | Description
 [PHP revershell](https://github.com/pentestmonkey/php-reverse-shell) | PHP reverseshell script from pentest monkey
 [netcat](https://sourceforge.net/projects/nc110/) | in pentesting used to open and listen to port to spawn shell 
 [xp_cmdshell](https://pentestwiki.org/academy/how-to-get-a-xp_cmdshell-reverse-shell/) | Article on xp_cmdshell reveseshell spawning
+[nc.exe](https://github.com/int0x33/nc.exe) | netcat for windows 
 
 <br><br>
 
