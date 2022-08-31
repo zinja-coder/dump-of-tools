@@ -47,6 +47,10 @@ Name | Description
 
 <br><br>
 
+### Database and SQL 
+[SQLMap](https://sqlmap.org/) | SQL Injection automation tool
+[xp_cmdshell](https://pentestwiki.org/academy/how-to-get-a-xp_cmdshell-reverse-shell/) | Article on xp_cmdshell reveseshell spawning for MSSQL
+
 ### Enumeration - Network and Host Scanning 
 Name | Description
 ---- | ----
@@ -186,7 +190,6 @@ Name | Description
 [PentestMonkey](https://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet) | reverse shell cheatsheet from pentest monkey
 [PHP revershell](https://github.com/pentestmonkey/php-reverse-shell) | PHP reverseshell script from pentest monkey
 [netcat](https://sourceforge.net/projects/nc110/) | in pentesting used to open and listen to port to spawn shell 
-[xp_cmdshell](https://pentestwiki.org/academy/how-to-get-a-xp_cmdshell-reverse-shell/) | Article on xp_cmdshell reveseshell spawning
 [nc.exe](https://github.com/int0x33/nc.exe) | netcat for windows 
 
 <br><br>
