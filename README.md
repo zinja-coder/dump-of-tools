@@ -236,7 +236,7 @@ Name | Description
 ---- | ----
 [Cookie Editor](https://chrome.google.com/webstore/detail/cookie-editor/) | Browser extension for viewing and manipulating cookies
 [JWT.io](https://jwt.io/) | jwt.io editor is encoder decoder and editor for Json Web Tokens
-[flask_sign](https://pypi.org/project/flask-unsign/) | Python package to decode the cookie and brute force the secret key in order to manipulate session
+[flask-unsign](https://pypi.org/project/flask-unsign/) | Python package to decode the cookie and brute force the secret key for session manipulation
 
 <br><br>
 
