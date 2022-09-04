@@ -235,6 +235,7 @@ Name | Description
 Name | Description
 ---- | ----
 [Cookie Editor](https://chrome.google.com/webstore/detail/cookie-editor/) | Browser extension for viewing and manipulating cookies
+[JWT.io](https://jwt.io/) | jwt.io editor is encoder decoder and editor for Json Web Tokens
 
 <br><br>
 
