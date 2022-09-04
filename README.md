@@ -247,6 +247,13 @@ Name | Description
 
 <br><br>
 
+### Wordlists
+Name | Description
+---- | ----
+[SecLists](https://github.com/danielmiessler/SecLists) | Collection of wordlists 
+
+<br><br>
+
 ## General purpose tools - Non Penetration testing tools
 
 <br><br>
