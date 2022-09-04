@@ -231,11 +231,19 @@ Name | Description
 
 <br><br>
 
+### Web Apps - Sessions and Cookies 
+Name | Description
+---- | ----
+[Cookie Editor](https://chrome.google.com/webstore/detail/cookie-editor/) | Browser extension for viewing and manipulating cookies
+
+<br><br>
+
 ### Web Apps - LFI 
 Name | Description
 ---- | ----
 [LFI codes snippets](https://book.hacktricks.xyz/pentesting-web/file-inclusion) | list of LFI codes and cheatsheet
 
+<br><br>
 
 ## General purpose tools - Non Penetration testing tools
 
