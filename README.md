@@ -181,6 +181,7 @@ Name | Description
 [sherlock](https://github.com/rasta-mouse/Sherlock) | power shell script to check privlege escalation in windows
 [Windows-Exploit-Suggester](https://github.com/AonCyberLabs/Windows-Exploit-Suggester) | find exploits in windows
 [pspy](https://github.com/DominicBreuker/pspy) | Monitor linux processes without root permissions 
+[raptor_udf2.c](https://github.com/1N3/PrivEsc/tree/master/mysql) | Privilege Escalation via mysql user defined functions
 
 <br><br>
 
