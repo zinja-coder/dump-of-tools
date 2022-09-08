@@ -44,6 +44,7 @@ Name | Description
 [stegseek](https://github.com/RickdeJager/stegseek) | insanely fast steghide password cracking 
 [base64](https://www.base64decode.org/) | it is CLI and online tool to encode/decode base64
 [fcrackzip](https://www.kali.org/tools/fcrackzip/) | crack password protected zip files
+[CyberChef](https://gchq.github.io/CyberChef/) | URL encoder Decoder and much much more
 
 <br><br>
 
