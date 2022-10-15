@@ -24,6 +24,14 @@ Name | Description
 [Hydra](https://github.com/vanhauser-thc/thc-hydra) | Hydra is powerfull credential bruteforcing tool
 [medusa](https://github.com/jmk-foofus/medusa) | Medusa is credential bruteforcing tool
 
+
+### Binary Exploitation, Reverse Engineering, Hex and machine level exploitation tools
+Name | Description
+---- | ----
+[Ghidra](https://ghidra-sre.org/) | Ghidra is powerfull reverse engineering and malware analysis tool
+[binwalk](https://github.com/ReFirmLabs/binwalk) | binwalk in bin firmware analyzer tool
+
+
 <br><br>
 
 ### Clearing tracks
