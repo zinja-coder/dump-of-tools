@@ -62,6 +62,15 @@ Name | Description
 [SQLMap](https://sqlmap.org/) | SQL Injection automation tool
 [xp_cmdshell](https://pentestwiki.org/academy/how-to-get-a-xp_cmdshell-reverse-shell/) | Article on xp_cmdshell reveseshell spawning for MSSQL
 
+<br><br>
+
+### Email Analyzer
+Name | Description
+---- | ----
+[emlAnalyzer](https://github.com/ninoseki/eml_analyzer) | Email Analyzer tool
+
+<br><br>
+
 ### Enumeration - Network and Host Scanning 
 Name | Description
 ---- | ----
